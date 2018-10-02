@@ -2,6 +2,8 @@
 
 <h2>Overview</h2>
 Lunar Lander was one of many influential early video games released by Atari in 1979, and was a precursor to their release of Asteroids (which we will also implement this semester). The object of the game is to safely navigate a lunar module to land on a flat portion of the moon's surface. To pilot the lander, horizontal thrusters can be activated to maneuver the ship left and right, and vertical thrusters can be fired to slow its descent.
+<h2>Installation</h2>
+<p>This installation is for Linux (Ubuntu 14.0+)</br>Run the following command in a terminal window: <code>make makefile</code></p>
 <h2>Game Play and Rules</h2>
 <ul>
   <li>The following describes the rules and game play of Moon Lander:</li>
